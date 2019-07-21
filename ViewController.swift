@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  BullsEye
 //
-//  Created by Julia on 2019/7/19.
-//  Copyright © 2019 Julia. All rights reserved.
+//  Created by Allen on 2019/7/19.
+//  Copyright © 2019 Allen. All rights reserved.
 //
 
 import UIKit
